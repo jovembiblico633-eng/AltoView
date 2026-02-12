@@ -219,10 +219,10 @@ main {
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 }
 
-/* Botão 360 */
+/* Ajuste do Botão 360 */
 .action-wrapper {
     position: absolute;
-    bottom: 30px;
+    bottom: 80px; /* Alterado de 30px para 80px para subir o botão */
     left: 50%;
     transform: translateX(-50%) translateY(120px);
     z-index: 3000;
